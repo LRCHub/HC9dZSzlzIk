@@ -1,0 +1,56 @@
+# One Direction – Midnight Memories
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.79] Straight off the plane to a new hotel
+[00:11.83] Just touched down, you could never tell
+[00:17.70] A big house party with a crowded kitchen
+[00:24.06] People talk shh, but we don't listen
+[00:42.06] 
+[00:27.29] Tell me that I'm wrong, but I do what I please
+[00:30.27] Way too many people in the Addison Lee
+[00:33.19] Now I'm at the age when I know what I need, oh, whoa
+[00:59.19] 
+[00:39.44] Midnight memories
+[00:44.20] Oh, oh, oh, oh, oh, baby, you and me
+[00:47.21] Stumbling in the street
+[00:48.69] Singing, singing, singing, singing
+[00:52.01] Midnight memories
+[00:56.52] Oh, oh, oh, oh, oh, anywhere we go never say no
+[01:01.00] Just do it, do it, do it, do it
+[01:16.50] 
+[01:04.43] Five-foot-something with the skinny jeans
+[01:10.55] Don't look back, baby, follow me
+[01:16.41] I don't know where I'm going, but I'm finding my way
+[01:22.92] Same old shh, but a different day
+[01:39.42] 
+[01:25.52] Tell me that I'm wrong, but I do what I please
+[01:28.75] Way too many people in the Addison Lee
+[01:31.82] Now I'm at the age when I know what I need, oh, whoa
+[01:57.82] 
+[01:38.06] Midnight memories
+[01:42.70] Oh, oh, oh, oh, oh, baby, you and me
+[01:45.69] Stumbling in the street
+[01:47.25] Singing, singing, singing, singing
+[01:50.58] Midnight memories
+[01:54.99] Oh, oh, oh, oh, oh, anywhere we go never say no
+[01:59.55] Just do it, do it, do it, do it
+[02:15.05] 
+[02:03.64] You and me and all our friends
+[02:06.74] I don't care how much we spend
+[02:09.95] Baby, this is what the night is for
+[02:15.94] I know nothing's making sense
+[02:19.18] For tonight, let's just pretend
+[02:22.04] I don't wanna stop, so give me more
+[02:39.54] 
+[03:07.81] Midnight memories
+[03:12.37] Oh, oh, oh, oh, oh, baby, you and me
+[03:15.62] Stumbling in the street
+[03:17.12] Singing, singing, singing, singing
+[03:20.64] Midnight memories
+[03:24.86] Oh, oh, oh, oh, oh, anywhere we go never say no
+[03:29.47] Just do it, do it, do it, do it
+[03:44.97] 
+[03:40.19] Thank you
+```

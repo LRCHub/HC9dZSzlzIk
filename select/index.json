@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Midnight Memories",
+  "base_artist": "One Direction",
+  "createdAt": "2026-03-27T07:09:44.443500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/05_Midnight_Memories_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "Captain Beyond",
+      "has_synced": true,
+      "path": "select/06_Midnight_Memories_Captain_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Direction - Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/08_One_Direction_-_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "Find Me",
+      "has_synced": false,
+      "path": "select/09_Midnight_Memories_Find_Me.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Direction - Midnight Memories (Audio)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/10_One_Direction_-_Midnight_Memories_(Audio)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Direction - Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/11_One_Direction_-_Midnight_Memories_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midnight Memories",
+      "artist": "Video • One Direction",
+      "has_synced": true,
+      "path": "select/12_Midnight_Memories_Video_•_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight Memories",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_Memories_One_Direction.txt"
+    }
+  ]
+}
